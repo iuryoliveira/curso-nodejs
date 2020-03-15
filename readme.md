@@ -9,7 +9,7 @@ $ docker-machine start default
 4 - Baixar container do mongo
 $ docker pull mongo
 
-Caso haja problemas ao iniciar a máquina virutal: 
+Caso haja problemas ao iniciar a máquina virtual: 
 $ docker-machine env --shell=powershell | Invoke-Expression
 
 5 - Iniciar o mongo
