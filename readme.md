@@ -20,4 +20,6 @@ $ docker start mongodb //para rodar o container em demais vezes
 $ docker-machine ip default //descobrir ip da máquina virtual
 Acessar ipDaMaquinaVirutal:27017
 
+7 - Instalar e configurar o Robo3t
+https://robomongo.org/download
 
